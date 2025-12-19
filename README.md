@@ -1,6 +1,6 @@
 
 <!--
-**KhledAboaesh/KhledAboaesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KhledAboaesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -43,14 +43,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" alt="Khaled's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-</p>
 
----
 
 ### 🌱 Current Focus
 - 🔭 Currently developing modern web and mobile solutions.
@@ -58,10 +51,6 @@ Here are some ideas to get you started:
 - 🤝 Open to **Freelance opportunities** and Open Source collaborations.
 
 ---
-
-### 📫 Get in Touch
-- 📧 Email: [Your Email Here]
-- 💼 LinkedIn: [Coming Soon]
 
 <p align="right">
   <i>"Value is in the Achievement"</i>
